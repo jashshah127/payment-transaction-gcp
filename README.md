@@ -1,4 +1,4 @@
-\# Payment Transaction API - Google Cloud Run
+\ Payment Transaction API - Google Cloud Run
 
 
 
@@ -6,7 +6,7 @@ Flask ML API deployed on Google Cloud Run for payment transaction classification
 
 
 
-\## Local Setup
+\ Local Setup
 
 ```
 
@@ -28,7 +28,7 @@ python src/app.py
 
 
 
-\## Deploy to GCP
+\ Deploy to GCP
 
 ```
 
@@ -38,7 +38,7 @@ gcloud run deploy payment-api --source . --region us-central1 --allow-unauthenti
 
 
 
-\## Endpoints
+\ Endpoints
 
 
 
@@ -52,7 +52,7 @@ gcloud run deploy payment-api --source . --region us-central1 --allow-unauthenti
 
 
 
-\## Author
+\ Author
 
 
 
